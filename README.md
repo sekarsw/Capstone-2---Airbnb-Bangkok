@@ -2,7 +2,7 @@
 
 ## Project Overview
 
-This is the Module 2 Capstone Project for the DTI Data Science Program at Purwadhika Digital School. In this project, I used Pandas to explore the Airbnb Listings Bangkok dataset. I also conducted statistical testing using the Scipy module and visualized my findings using Matplotlib and Seaborn.
+This is the Module 2 Capstone Project for the DTI Data Science Program at Purwadhika Digital School. In this project, I used Pandas to explore the Airbnb Listings Bangkok dataset. I also conducted statistical testing using the Scipy module and visualized my findings using Matplotlib and Seaborn. The full project can be viewed in the Jupyter Notebook file.
 You can also [click here](https://public.tableau.com/app/profile/sekar.wibowo/viz/CapstoneModule2-AirbnbBangkok/Story1) to see my visualizations using Tableau Story.
 
 ## Background
