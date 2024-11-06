@@ -17,6 +17,9 @@ This rapid growth in Airbnb reservations and the diversity of travelers coming t
 
 ## Business Problem
 
+With the increasing number of reservation in Bangkok, Airbnb wants to optimize pricing and enhance guest experiences to strengthen Airbnb's competitive position, therefore increasing its total revenue. Analyzing the characteristics of popular listings—such as their location, room type, and other key attributes—will provide Airbnb with actionable insights on what attracts more bookings. 
+
+How do different factors such as district, room type, and price affect booking rates and traveler preferences for Airbnb listings in Bangkok?
 
 ## Data Exploration and Cleaning
 
@@ -34,3 +37,11 @@ This rapid growth in Airbnb reservations and the diversity of travelers coming t
 5. Analyze hosts
 
 ## Conclusion 
+
+- The top 2 districts with the most listings are Watthana and Khlong Toei, both having more than 2000 listings, while the majority have less than 500 listings.
+- There is a significant relationship between the location and room  type, suggesting that the number of room type vary by district
+- The price of a listing depends on the location, room type, and duration type.
+- Entire home/apt is most common room type in Airbnb and also the most booked.
+- Only 20.94% of reviews are made within the last 1 year.
+
+
